@@ -1,4 +1,4 @@
-{:user {:plugins [[cider/cider-nrepl "0.11.0-SNAPSHOT"]
+{:user {:plugins [[cider/cider-nrepl "0.12.0-SNAPSHOT"]
                   [lein-ancient "0.6.8"]
                   [refactor-nrepl "2.2.0-SNAPSHOT"]]
         :mirrors {#"clojars" {:name "clojars mirror"
