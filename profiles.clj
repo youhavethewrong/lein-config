@@ -1,10 +1,10 @@
 {:user {:plugins [[lein-ancient "0.6.12"]
-                  [cider/cider-nrepl "0.15.1"]
+                  [cider/cider-nrepl "0.16.0-SNAPSHOT"]
+                  [refactor-nrepl "2.4.0-SNAPSHOT"]
                   [slamhound "1.5.5"]
                   [lein-try "0.4.3"]
                   [lein-exec "0.3.6"]
-                  [refactor-nrepl "2.3.0-SNAPSHOT"]
                   [lein-kibit "0.1.5"]
                   [jonase/eastwood "0.2.4"]
-                  [lein-bikeshed "0.4.1"]]
-        }}
+                  [lein-bikeshed "0.4.1"]
+                  [lein-nvd "0.4.0"]]}}
