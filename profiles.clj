@@ -1,6 +1,6 @@
 {:user {:plugins [[lein-ancient "0.6.14"]
-                  [cider/cider-nrepl "0.16.0-SNAPSHOT"]
-                  [refactor-nrepl "2.4.0-SNAPSHOT"]
+                  [cider/cider-nrepl "0.15.1"]
+                  [refactor-nrepl "2.3.1"]
                   [slamhound "1.5.5"]
                   [lein-try "0.4.3"]
                   [lein-exec "0.3.6"]
